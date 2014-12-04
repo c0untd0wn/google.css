@@ -1,0 +1,32 @@
+.gb_Sb {
+	background: #1EAAF1 !important;
+}
+#hdtbSum {
+	background: #1EAAF1 !important;
+}
+#appbar {
+	background: #1EAAF1 !important;
+}
+#resultStats {
+	color: white !important;
+}
+#hdtb .hdtb_mitem a {
+	color: white !important;
+}
+#hdtb_msb #hdtb_more, #hdtb_msb #hdtb_tls {
+	color: white !important;
+}
+.mn-dwn-arw {
+	border-color: white transparent !important;
+}
+body {
+	background: #F4F5F6;
+}
+
+.rc, ._yE, .kp-blk {
+	background: white;
+	padding: 30px;
+}
+a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu {
+	color: #8F8F8F;
+}
